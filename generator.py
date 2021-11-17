@@ -26,7 +26,7 @@ class CLIENT():
 def main():
     # server address
     ip = "110.40.150.238"
-    port = 1236
+    port = 2222
 
     s = CLIENT(ip,port)
     s.run()
